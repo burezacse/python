@@ -1,0 +1,26 @@
+Reza@Reza-pc MINGW64 ~
+$ cd desktop/
+
+Reza@Reza-pc MINGW64 ~/desktop
+$ cd git/
+
+Reza@Reza-pc MINGW64 ~/desktop/git
+$ git config --global user.name "burezacse"
+
+Reza@Reza-pc MINGW64 ~/desktop/git
+$ git config --global user.email "burezacse@gmail.com"
+
+Reza@Reza-pc MINGW64 ~/desktop/git
+$ git clone https://github.com/burezacse/python.git
+Cloning into 'python'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+
+Reza@Reza-pc MINGW64 ~/desktop/git
+$ ls
+python/
+
+Reza@Reza-pc MINGW64 ~/desktop/git
+$
